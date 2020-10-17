@@ -12,4 +12,5 @@ public class Test2 {
 	public int getNumber() {
 		return 1;
 	}
+	add by sky13315
 }
