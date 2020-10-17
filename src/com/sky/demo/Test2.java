@@ -8,4 +8,8 @@ public class Test2 {
 	public String getName(String attr){
 		return "abc";
 	}
+
+	public int getNumber() {
+		return 1;
+	}
 }
